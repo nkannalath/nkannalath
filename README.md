@@ -1,5 +1,1 @@
-## Hi there 👋
-
-<!--
-I am Nevin Kannalath, and am studying Data Science & Business Administration at Northeastern University.
--->
+## I am Nevin Kannalath, and am studying Data Science & Business Administration at Northeastern University.
